@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 @EnableWebMvc
 @Configuration
-@ComponentScan({"it.progettofilm"})
+@ComponentScan({"it"})
 
 public class WebConfig extends WebMvcConfigurerAdapter {
 
